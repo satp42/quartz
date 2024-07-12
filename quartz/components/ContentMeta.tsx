@@ -6,6 +6,7 @@ import { i18n } from "../i18n"
 import { JSX } from "preact"
 import style from "./styles/contentMeta.scss"
 
+
 interface ContentMetaOptions {
   /**
    * Whether to display reading time
@@ -24,9 +25,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
   const options: ContentMetaOptions = { ...defaultOptions, ...opts }
 
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
-    const text = fileData.text
+    const text = fileData.text;
+    const showDateAndReadTime = fileData.frontmatter?.showDateAndReadTime !== false // Default to true if not specified
 
-    if (text) {
+
+    if (text && showDateAndReadTime) {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
