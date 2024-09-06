@@ -9,7 +9,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/satp42",
       Twitter: "https://twitter.com/therealsatwik",
-      LinkedIn: "https://www.linkedin.com/in/satwik-panigrahi-90a7b1218/"
+      LinkedIn: "https://www.linkedin.com/in/satwik-panigrahi-90a7b1218/",
+      Resume: "https://ff695b5dd2960f41cb75835a324f0804.r2.cloudflarestorage.com/drp-cl/3bc216a8-4152-421b-b228-b1c44cafdcd9/5331daa1-41ac-41a0-a44c-27d093b367ee/4631280b-0832-41ab-bcf1-c20887e98508.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=fed7aac277aea51eca0c294ada409f61/20240906/auto/s3/aws4_request&X-Amz-Date=20240906T175410Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=de1130c9b4c50d20edadc2baeea284095f52315763019b690cd460c209339854"
     },
   }),
 }
