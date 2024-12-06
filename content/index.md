@@ -3,7 +3,7 @@ title: Welcome to my Garden!
 showDateAndReadTime: false
 ---
 
-I'm Satwik, a Data Science student at UC Berkeley. Currently working on [Alumala](https://www.alumala.com/) — a platform that helps schools create alumni database for student bodies and provide advanced analytics to help counselors make data-driven consultations.
+I'm Satwik, a Data Science student at UC Berkeley. Currently working at [Advocate](https://tryadvocate.com) and [Exo Labs](https://exolabs.net/) as Machine Learning Engineer Interns.
 
 In the past, I've worked on a variety of projects:
 - Researched under the [Professor Prasant Mohapatra](https://faculty.engineering.ucdavis.edu/mohapatra/) on the topic of [Double Momentum Backdoor Attacks in Federated Learning](https://doi.org/10.47611/jsrhs.v12i1.3644).
