@@ -3,7 +3,7 @@ title: Welcome to my Garden!
 showDateAndReadTime: false
 ---
 
-I'm Satwik, a Data Science student at UC Berkeley. I am currently building [Festas](https://www.usefestas.com/) while also working as a founding engineer at [LawLoop](https://www.lawloop.ai/).
+I'm Satwik, a Computer Science & Data Science student at UC Berkeley. I am currently building [Festas](https://www.usefestas.com/) while also working as a founding engineer at [LawLoop](https://www.lawloop.ai/).
 
 In the past, I've worked on a variety of projects:
 - I was the youngest engineer at [Advocate](https://landing.tryadvocate.com/) where I built most of the ML infra for their LLM-facing insurance compliance software that is integrated into their core platform.
