@@ -3,9 +3,10 @@ title: Welcome to my Garden!
 showDateAndReadTime: false
 ---
 
-I'm Satwik, a Data Science student at UC Berkeley. Currently working at [Advocate](https://www.tryadvocate.com/) and [Exo Labs](https://exolabs.net/) as Machine Learning Engineer Interns.
+I'm Satwik, a Data Science student at UC Berkeley. I am currently building [Festas](https://www.usefestas.com/) while also working as a founding engineer at [LawLoop](https://www.lawloop.ai/).
 
 In the past, I've worked on a variety of projects:
+- I was the youngest engineer at [Advocate](https://landing.tryadvocate.com/) where I built most of the ML infra for their LLM-facing insurance compliance software that is integrated into their core platform.
 - Researched under the [Professor Prasant Mohapatra](https://faculty.engineering.ucdavis.edu/mohapatra/) on the topic of [Double Momentum Backdoor Attacks in Federated Learning](https://doi.org/10.47611/jsrhs.v12i1.3644).
 - Worked on Noise-Resilient Federated Learning Models through Robust Aggregation Methods at the UC Santa Cruz SIP Program. Presented at the Sigma Xi Research Conference.
 - Developed a multimodal extractor that uses NLP and Computer Vision to extract information from Mental Health Records, MRI, and other biomarkers to differentiate between Lewy Body Dementia and Alzheimer's Disease.
