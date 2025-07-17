@@ -3,7 +3,7 @@ title: Welcome to my Garden!
 showDateAndReadTime: false
 ---
 
-I'm Satwik, a Computer Science & Data Science student at UC Berkeley. I am currently building [Festas](https://www.usefestas.com/) while also working as a founding engineer at [LawLoop](https://www.lawloop.ai/).
+I'm Satwik, a Computer Science & Data Science student at UC Berkeley. I am currently working as a founding engineer at [LawLoop](https://www.lawloop.ai/) and [GRU Space](https://gru.space/).
 
 In the past, I've worked on a variety of projects:
 - I was the youngest engineer at [Advocate](https://landing.tryadvocate.com/) where I built most of the ML infra for their LLM-facing insurance compliance software that is integrated into their core platform.
@@ -12,7 +12,9 @@ In the past, I've worked on a variety of projects:
 - Developed a multimodal extractor that uses NLP and Computer Vision to extract information from Mental Health Records, MRI, and other biomarkers to differentiate between Lewy Body Dementia and Alzheimer's Disease.
 - Built a startup called Neigh — a two-sided marketplace for neighbors to rent and lend essentials to one another.
 
-I'm interested in using foundational models to build better biological diagnosis tools through prediction of protein folding and protein-protein interactions. I'm also interested in startups, AI, philosophy, economics, and more.
+I'm interested in using Blockchain — specifically using Zero-Knowledge Proofs to turn spare GPUs into a compliance-verifiable, energy-aware AI cloud run by its users. I'm also interested in DeFi and Ethereum Development (check out my analysis on [[3Jane Protocol]]) at [Blockchain@Berkeley](https://blockchain.studentorg.berkeley.edu/).
+
+I'm also interested in startups, AI, philosophy, economics, and more.
 
 On the side:
 - I'm a massive Warriors fan (Go Dubs!)
