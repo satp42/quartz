@@ -1,6 +1,7 @@
 ---
 title: Welcome to my Garden!
 showDateAndReadTime: false
+publish: true
 ---
 
 I'm Satwik, a Computer Science & Data Science student at UC Berkeley. I am currently working as a founding engineer at [LawLoop](https://www.lawloop.ai/) and [GRU Space](https://gru.space/).
@@ -14,7 +15,7 @@ In the past, I've worked on a variety of projects:
 
 I'm interested in using Blockchain — specifically using Zero-Knowledge Proofs to turn spare GPUs into a compliance-verifiable, energy-aware AI cloud run by its users. I'm also interested in DeFi and Ethereum Development (check out my analysis on [[3Jane Protocol]]) at [Blockchain@Berkeley](https://blockchain.studentorg.berkeley.edu/).
 
-I'm also interested in startups, AI, philosophy, economics, and more.
+I'm also interested in startups, AI, philosophy, economics, and more. I think values are important thus, here is my [[Code of Life]].
 
 On the side:
 - I'm a massive Warriors fan (Go Dubs!)
