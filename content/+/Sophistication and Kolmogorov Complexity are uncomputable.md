@@ -1,0 +1,1 @@
+Link to [[Halting Problem]] and [[Kolmogorov complexity]] and [[Sophistication of data structures]]

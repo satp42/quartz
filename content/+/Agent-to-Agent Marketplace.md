@@ -1,0 +1,1 @@
+This idea is a new paradigm that builds on top of multi-agent infrastructure like [[LangChain]] and uses [[Poke's multi-agent workflow]] in enterprise contexts, except you use [[x402]] to let agents buy specialized agents.

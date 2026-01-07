@@ -1,0 +1,1 @@
+Applying this idea that [[LLM memory layers require reasoning to create dynamic memory]] to world models of a business allows steering vectors to be transformed to actionable tips for a business

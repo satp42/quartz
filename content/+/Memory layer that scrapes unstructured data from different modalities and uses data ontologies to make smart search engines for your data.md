@@ -1,0 +1,4 @@
+- Multimodal data is a mess
+- [[Data ontologies are essential for better database processing]]
+- [[LLM memory layers require reasoning to create dynamic memory]]
+- Create a way to extract structure from documents, images, and videos

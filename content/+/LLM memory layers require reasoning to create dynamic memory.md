@@ -1,0 +1,1 @@
+More importantly this idea of Memory as Reasoning creates the opportunity to develop a better memory layer for coding IDEs. Attach that with a way to create a text-to-sql layer for better memory ontologies in coding IDEs, and you have a memory layer that improves upon mem0 and supermemory.

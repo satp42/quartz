@@ -1,8 +1,0 @@
----
-up: []
-related: []
-created: 2025-05-28
----
-One of the main examples of the docking procedure allows for incoming rovers to align in terms of position to be docked within the hub system. The rover's approach trajectory is considered when trying to coarsely align it to the hub using [[Computer Vision]] and mechanical alignment. The rover uses [[ROS2 with the NAV2 Stack for autonomous navigation]]  and [[ARuCO tags in OpenCV]] as a form of navigational waypoints. The [[Extended Kalman Filter]] in NAV2 processes sensor data from depth cameras, pointclouds, RGB/Depth images, and an Intel T265 camera with IMU/Gyro, GPS, battery status, and encoder data. This processed by a [[Loss function]] derived by a [[Proportional-integral-derivative controller]] which tries to minimize error with marking points during the entry. A 3D printed bumper helps guide the rover into the docking port, which was optimized by MatLab simulations (Simscape Multibody plugin) to help increase the valid docking config space by 258%.
-
-After entry, the hub's lifting arms raise the rover using lifting tabs. Sloped profiles on the arms and gravity guide the tabs into a lower resting position. Magnets in the arms snap the rover into a final resting position. In this position, custom electrical contacts engage to perform a continuity check to verify successful docking and transfer auxiliary power to the rover during the swap. This auxiliary power is critical for maintaining communication, monitoring, and thermal conditions in a space implementation. Lifting stops when the rover is level with the hub's battery cache, positioning a bi-directional pusher relative to tabs on the battery module, priming the system for the swap. 

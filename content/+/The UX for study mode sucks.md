@@ -1,0 +1,1 @@
+There should be a way to go through study mode and create threads that split off on the side to go through rabbit holes

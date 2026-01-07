@@ -1,0 +1,1 @@
+ if you could generate diverse driving scenarios with guaranteed temporal and cross-modal consistency, suddenly you have unlimited training data at marginal cost.
