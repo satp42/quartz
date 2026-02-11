@@ -1,4 +1,5 @@
 export { ContentPage } from "./contentPage"
+export { PostsPage } from "./postsPage"
 export { TagPage } from "./tagPage"
 export { FolderPage } from "./folderPage"
 export { ContentIndex } from "./contentIndex"

@@ -29,3 +29,4 @@ The challenge with this is how do you encode both which gene and how much it is 
 3. Concatenate the embedding vectors for the identity and value, apply a linear projection so that the model learns to combine identity and value in useful ways. Finally, add a layer normalization so there aren't any drastic training sweeps.
 
 Importantly, this is better than scGPT because, what scGPT does is it discretizes the expressions into bins (i.e. if a gene is expressed with 2.5 and another gene is 4.9, they'll be encoded in the same way because they both are in a bin). But, because we make the expressions highly-dimensional, the embeddings become hyper-specific to that exact gene.
+

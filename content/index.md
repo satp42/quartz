@@ -15,9 +15,9 @@ In the past, I've worked on a variety of projects (from most recent to earliest)
 - Developed a multimodal extractor that uses NLP and Computer Vision to extract information from Mental Health Records, MRI, and other biomarkers to differentiate between Lewy Body Dementia and Alzheimer's Disease.
 - Built a startup called Neigh — a two-sided marketplace for neighbors to rent and lend essentials to one another.
 
-I'm also interested in DeFi and Ethereum Development (check out my analysis on the [[3Jane Protocol]]) at [Blockchain@Berkeley](https://blockchain.studentorg.berkeley.edu/).
+I'm also interested in DeFi and Ethereum Development at [Blockchain@Berkeley](https://blockchain.studentorg.berkeley.edu/).
 
-I think values are important thus, here is my [[Code of Life]].
+I think values are important thus, here is my [[Code of Life]]. The things I ship are part of my daily practice of build [[Power]], and you can find [[The things I have built]]. See [[posts/|Posts]] to read about the ideas I have thought of.
 
 On the side:
 - I'm a massive Warriors fan (Go Dubs!)
